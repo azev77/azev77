@@ -14,6 +14,8 @@ Count AZ website views
 -->
 
 <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https://azev77.github.io/" alt="Hits">
+
+<!--
 let targetUrl = 'https://azev77.github.io/';
 let query = '?url=' + encodeURIComponent(targetUrl);
 let xmlHttp = new XMLHttpRequest();
@@ -21,7 +23,7 @@ xmlHttp.withCredentials = true;
 xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
 xmlHttp.send(null);
 count = xmlHttp.responseText;
-
+-->
 
 
 
