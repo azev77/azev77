@@ -8,7 +8,12 @@ https://github.com/antonkomarev/github-profile-views-counter
 ![](https://komarev.com/ghpvc/?username=azev77)
 
 
+<!--
+Count AZ website views
 
+-->
+
+<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https://github.com/azev77" alt="Hits">
 
 
 
