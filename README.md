@@ -10,10 +10,22 @@ https://github.com/antonkomarev/github-profile-views-counter
 
 <!--
 Count AZ website views
-
--->
 <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fazev77.github.io%2F" alt="Hits">
 ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fazev77.github.io%2F)
+-->
+
+<!--
+https://github.com/gjbae1212/hit-counter
+-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fazev77.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+
+
+
 
 <!--
 let targetUrl = 'https://azev77.github.io/';
