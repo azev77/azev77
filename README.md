@@ -3,7 +3,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" /></p> 
 <!-- Github: stats, repos, contrib, stars -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azev77&show_icons=true" alt="azev77" /></p>
-
+<!-- Count Github profile views: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azev77" alt="azev77" /> </p>
 
 
 - 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
