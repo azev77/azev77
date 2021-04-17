@@ -1,4 +1,12 @@
 ### Hi there 👋, I'm Алик. <!-- Hi there 👋 -->
+- 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
+
+- 🌱 I’m currently learning about **Machine Learning in Business**
+- a
+
+
+
+
 
 <br/>
 <!-- Most used languages on Github -->
