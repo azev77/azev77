@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Алик. <!-- Hi there 👋 -->
 - 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" /></p>
 - a
+- a2
+- 
 
 
 
