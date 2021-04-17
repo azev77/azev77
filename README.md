@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Алик. <!-- Hi there 👋 -->
 <!-- Most used languages on Github -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azev77&show_icons=true" alt="azev77" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=azev77&show_icons=true" alt="azev77" /></p>
 
 
 
