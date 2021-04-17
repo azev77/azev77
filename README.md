@@ -11,6 +11,7 @@
 
 <br/> <br/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azev77&show_icons=true" alt="azev77" /></p>
 
 <!--
 Count AZ website views
