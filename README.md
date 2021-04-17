@@ -1,15 +1,10 @@
 ### <!-- Hi there 👋 -->
 
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" /></p>
-</p>
-
-
-<!--
-Count Github profile views
-https://github.com/antonkomarev/github-profile-views-counter
--->
-
+<br>
+<!-- Most used languages on Github -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />
+<br>
+<!-- Count Github profile views: https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=azev77)
 
 
