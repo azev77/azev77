@@ -2,12 +2,12 @@
 
 <br/>
 <!-- Most used languages on Github -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />    
 
 <br/> <br/>
 <!-- Count Github profile views: https://github.com/antonkomarev/github-profile-views-counter -->
 
-![](https://komarev.com/ghpvc/?username=azev77)
+![](https://komarev.com/ghpvc/?username=azev77)    
 
 <br/> <br/>
 
