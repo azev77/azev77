@@ -1,5 +1,9 @@
 ### <!-- Hi there 👋 -->
 
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" /></p>
+
+
 <!--
 Count Github profile views
 https://github.com/antonkomarev/github-profile-views-counter
