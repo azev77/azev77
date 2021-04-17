@@ -1,4 +1,10 @@
 ### Hi there 👋, I'm Алик. <!-- Hi there 👋 -->
+<!-- Most used languages on Github -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azev77&show_icons=true" alt="azev77" /></p>
+
+
+
 - 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" /></p>
 - a
@@ -10,8 +16,6 @@
 
 
 <br/>
-<!-- Most used languages on Github -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azev77&layout=compact&hide=html" alt="azev77" />    
 
 <br/> <br/>
 <!-- Count Github profile views: https://github.com/antonkomarev/github-profile-views-counter -->
